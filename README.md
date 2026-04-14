@@ -3,7 +3,7 @@ Jupyter notebook tutorials for the center for pediatric data science and analyti
 
 # Python 3.11 and Machine Learning Libraries Installation Tutorial
 
-This tutorial will guide you through installing Python 3.11 and essential machine learning libraries including NumPy, Pandas, scikit-learn, Matplotlib, Jupyter, and datafold.
+This tutorial will guide you through installing Python 3.11 and essential libraries for these ML tutorials including NumPy, Pandas, scikit-learn, Matplotlib, Jupyter, and datafold.
 
 ---
 
